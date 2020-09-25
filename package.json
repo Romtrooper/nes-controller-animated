@@ -1,0 +1,23 @@
+{
+  "name": "nes-controller-animated",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Romtrooper/nes-controller-animated.git"
+  },
+  "author": "RomainSan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Romtrooper/nes-controller-animated/issues"
+  },
+  "homepage": "https://github.com/Romtrooper/nes-controller-animated#readme"
+}
